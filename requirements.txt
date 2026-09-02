@@ -1,0 +1,2 @@
+biopython
+pip install -r requirements.txt
